@@ -1,0 +1,105 @@
+### Spring Boot ###
+*.class
+*.log
+*.war
+*.jar
+*.releaseBackup
+*.zip
+*.tar.gz
+*.tar
+*.ear
+*.ser
+*.class
+*.har
+*.photon
+*.db
+*.hist
+*.io
+*.swp
+*.back
+*.rsb
+*.iml
+*.bak
+*.swp
+*.bak
+*.off
+*.old
+*.sik
+*.suo
+*.rej
+*.orig
+*.dist
+*.temp
+*.tmp
+*.log
+*.vik
+*.pg
+*.debug
+*.settings
+*.loadpath
+.DS_Store
+bin/
+build/
+!build.gradle
+!settings.gradle
+.gradle/
+!.gradle
+out/
+eclipse/
+eclipse-bin/
+**/MANIFEST.MF
+**/.factorypath
+**/.project
+**/.classpath
+**/.settings/
+HELP.md
+logs/
+**/spring-boot-starter-*.jar
+**/spring-boot-autoconfigure-*.jar
+**/spring-boot-starter-*.war
+**/spring-boot-autoconfigure-*.war
+**/spring-boot-*.jar
+**/spring-boot-*.war
+**/application.properties
+**/application.yml
+**/bootstrap.properties
+**/bootstrap.yml
+*.log*
+run/
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+### Eclipse ###
+*.metadata
+*.recommenders
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+# VS Code directories
+.vscode/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+# Windows shortcuts
+*.lnk
+# JetBrains
+*.iml
+.idea/
+### .history plugin ###
+.history/
+# End of gitignore

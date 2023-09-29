@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "64d44ea07de7fe2bab04f430",
+    "surveyID": "survey1",
+    "userID": "user123",
+    "title": "Sample Survey",
+    "description": "This is a sample survey.",
+    "questions": [],
+    "responses": []
+  }
+]
